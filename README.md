@@ -37,7 +37,19 @@ Includes tables for:
 4. Run using Apache Tomcat server
 
 ## Screenshots
-(Add images here)
+
+### Login Page
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Appointment Module
+![Appointment](appointment.png)
+
+### Database
+![Database](database.png)
+
 
 ## Author
 Bhagya Sri
