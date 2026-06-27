@@ -1,13 +1,13 @@
 ## Screenshots
 
 ### Login Page
-![Login](login.png)
+![Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Appointment Module
-![Appointment](appointment.png)
+![Appointment](screenshots/appointment.png)
 
 ### Database
-![Database](database.png)
+![Database](screenshots/database.png)
